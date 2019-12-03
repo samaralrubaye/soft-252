@@ -15,10 +15,6 @@ package JAVAmodel;
         super(PName, PAddress, PAge, PGender, PPassWord);
     }
 
-    admin() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
    
     
     
